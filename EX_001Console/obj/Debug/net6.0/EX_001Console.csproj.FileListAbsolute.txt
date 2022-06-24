@@ -1,0 +1,15 @@
+C:\Users\IT-Service\Desktop\Try_again\Examples\EX_001Console\bin\Debug\net6.0\EX_001Console.exe
+C:\Users\IT-Service\Desktop\Try_again\Examples\EX_001Console\bin\Debug\net6.0\EX_001Console.deps.json
+C:\Users\IT-Service\Desktop\Try_again\Examples\EX_001Console\bin\Debug\net6.0\EX_001Console.runtimeconfig.json
+C:\Users\IT-Service\Desktop\Try_again\Examples\EX_001Console\bin\Debug\net6.0\EX_001Console.dll
+C:\Users\IT-Service\Desktop\Try_again\Examples\EX_001Console\bin\Debug\net6.0\EX_001Console.pdb
+C:\Users\IT-Service\Desktop\Try_again\Examples\EX_001Console\obj\Debug\net6.0\EX_001Console.csproj.AssemblyReference.cache
+C:\Users\IT-Service\Desktop\Try_again\Examples\EX_001Console\obj\Debug\net6.0\EX_001Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT-Service\Desktop\Try_again\Examples\EX_001Console\obj\Debug\net6.0\EX_001Console.AssemblyInfoInputs.cache
+C:\Users\IT-Service\Desktop\Try_again\Examples\EX_001Console\obj\Debug\net6.0\EX_001Console.AssemblyInfo.cs
+C:\Users\IT-Service\Desktop\Try_again\Examples\EX_001Console\obj\Debug\net6.0\EX_001Console.csproj.CoreCompileInputs.cache
+C:\Users\IT-Service\Desktop\Try_again\Examples\EX_001Console\obj\Debug\net6.0\EX_001Console.dll
+C:\Users\IT-Service\Desktop\Try_again\Examples\EX_001Console\obj\Debug\net6.0\refint\EX_001Console.dll
+C:\Users\IT-Service\Desktop\Try_again\Examples\EX_001Console\obj\Debug\net6.0\EX_001Console.pdb
+C:\Users\IT-Service\Desktop\Try_again\Examples\EX_001Console\obj\Debug\net6.0\EX_001Console.genruntimeconfig.cache
+C:\Users\IT-Service\Desktop\Try_again\Examples\EX_001Console\obj\Debug\net6.0\ref\EX_001Console.dll
